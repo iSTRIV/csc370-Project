@@ -1,3 +1,3 @@
 # csc370-Project
 
-help
+Bible Based trading card game for Litman:
